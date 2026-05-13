@@ -7,6 +7,7 @@ import java.net.URL;
 import javax.swing.ImageIcon;
 
 public class Icons {
+	public static final Dimension DIM_BUTTON_ICON_INTELLIJ = new Dimension(64, 64);
 
 	public static final Dimension DIM_BUTTON_ICON = new Dimension(34, 34);
 

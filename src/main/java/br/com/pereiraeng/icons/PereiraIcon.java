@@ -13,7 +13,7 @@ public enum PereiraIcon implements IconFactory {
 	NEXT("Next.gif"), UP("Up.gif"), DOWN("Down.gif"), RED_STOP("stop.gif"), FIND("Find.gif"),
 	FIND_AGAIN("FindAgain24.gif"), CLEAR("clear.png"), CUT("Cut.gif"), HELP("Help24.gif"), SETTINGS("settings.png"),
 	TAB("tab.png"), WARNING("warning.png"), PREFERENCES("Preferences.gif"), POWER("power.png"), PDF("pdf24.png"),
-	SELECT("select.png"), EXCEL("excel.png"), REPAIR("repair.png"), EQUATION("equation.png"), WATCHDOG("watchdog.png"),
+	SELECT("select.png"), EXCEL("excel.png"), EXCEL2("excel2.png"), REPAIR("repair.png"), EQUATION("equation.png"), WATCHDOG("watchdog.png"),
 	FILTER("filter2.png"), FILTER_SELECT("filterSelect.png"), FILTER_EDIT("filterEdit.png"),
 	FILTER_REFRESH("filterRefresh.png"), STATS("stats.png"), CLOSE("close.png"), OK("OK.gif"), CANCEL("Cancel.gif"),
 	PASTE("Paste.gif"), EXPAND("expand.png"), ALIGN_TOP("AlignTop24.gif"), ALIGN_BOTTOM("AlignBottom24.gif"),
@@ -47,7 +47,7 @@ public enum PereiraIcon implements IconFactory {
 	MPC("mpc.png"), SERVER("server.png"), ATTACH("attach.png"), CAPS("caps.png"), DEL("del.png"), LOWER("lower.png"),
 	NOREPEAT("norepeat.png"), OVER("over.png"), REPEAT("repeat.png"), REPEATX("repeatx.png"), REPEATY("repeaty.png"),
 	UNDER("under.png"), UPPER("upper.png"), VERTBOTTOM("vertBottom.png"), VERTCENTER("vertCenter.png"),
-	VERTTOP("vertTop.png");
+	VERTTOP("vertTop.png"), ENEMY("enemy.png");
 
 	private static final String PEREIRA_ICON_PATH = "images/";
 
